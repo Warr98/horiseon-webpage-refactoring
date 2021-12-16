@@ -11,3 +11,8 @@
     * Altered webpage title to Horiseon.
     * Organized CSS selectors with same properties into one group.
 
+   ![This is an image](Horiseon-page-top.png)
+   ![This is an image](Horiseon-page-bottom.png)
+   
+   Images above are screenshots of deployed application.Code had been improved without changing what it does.
+   
